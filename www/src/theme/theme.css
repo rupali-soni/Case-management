@@ -1,0 +1,14 @@
+.inputElem input {
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+.wrapDiv {
+	width:30%;
+	padding-top: 1%;
+}
+.h3Style {
+	background-color:rgba(0,0,0,.05);
+	padding: 0.5rem;
+}
+.inputWrapper {
+	padding: 0.8rem
+}
